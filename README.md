@@ -21,21 +21,14 @@ Requirements
 
 Clone the repo:
 
-bash
-
     git clone https://github.com/yourusername/lyric-rhyme-analyzer.git
     cd lyric-rhyme-analyzer
 
 Install the dependencies:
 
-bash
-
     pip install -r requirements.txt
 
-    Get a Genius API token and replace put your genius api token here in main() with your token.
+Get a Genius API token and replace 'put your genius api token here' in main() with your token.
 
 ## Run
-
-bash
-
     streamlit run main.py
